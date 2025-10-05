@@ -83,7 +83,8 @@
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=karinalimaklo&show_icons=true&bg_color=45,ffd6ff,ffb6c1&title_color=ff69b4&text_color=5e4b56&icon_color=ff69b4&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinalimaklo&layout=compact&card_width=420&bg_color=45,ffd6ff,ffb6c1&title_color=ff69b4&text_color=5e4b56&icon_color=ff69b4&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinalimaklo&layout=compact&bg_color=45,ffd6ff,ffb6c1&title_color=ff69b4&text_color=5e4b56&icon_color=ff69b4&hide_border=true)
+
 
 
 ###
